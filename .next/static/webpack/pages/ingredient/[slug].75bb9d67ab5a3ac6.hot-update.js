@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("pages/ingredient/[slug]",{
+
+/***/ "./src/data/ingredients.json":
+/*!***********************************!*\
+  !*** ./src/data/ingredients.json ***!
+  \***********************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = JSON.parse('[{"slug":"adenosine","name":"Аденозин","description":"Противовозрастной ингредиент, стимулирующий выработку коллагена и улучшающий эластичность кожи.","sources":["https://pubmed.ncbi.nlm.nih.gov/22052267/","https://incidecoder.com/ingredients/adenosine"],"products_by_popularity":["Missha Time Revolution Night Repair","Medi-Peel Bor-Tox Peptide Cream"],"products_by_percentage":["Derma Factory Adenosine 5%","Sidmool Adenosine 1% Ampoule"]},{"slug":"niacinamide","name":"Ниацинамид","description":"Форма витамина B3, осветляет пигментацию, регулирует выработку себума и укрепляет барьер кожи.","tags":["осветляет","барьер","антиакне","антиоксидант"],"sources":["https://pubmed.ncbi.nlm.nih.gov/12126069/","https://incidecoder.com/ingredients/niacinamide"],"products_by_popularity":["The Ordinary Niacinamide 10% + Zinc 1%","Paula\'s Choice 10% Niacinamide Booster"],"products_by_percentage":["Derma Factory Niacinamide 20%","Sidmool Niacinamide Ampoule 10%"]},{"slug":"ascorbic-acid","name":"L-Аскорбиновая кислота (витамин C)","description":"Мощный антиоксидант, осветляет кожу, стимулирует выработку коллагена и защищает от УФ-повреждений.","tags":["антиоксидант","осветляет","коллаген"],"sources":["https://pubmed.ncbi.nlm.nih.gov/10641180/","https://incidecoder.com/ingredients/ascorbic-acid"],"products_by_popularity":["SkinCeuticals C E Ferulic","Melano CC Essence"],"products_by_percentage":["Geek & Gorgeous C-Glow (15%)","Timeless 20% Vitamin C + E + Ferulic Acid Serum"]},{"slug":"panthenol","name":"Пантенол","description":"Успокаивает и увлажняет кожу, способствует заживлению, укрепляет кожный барьер.","tags":["барьер","успокаивает","увлажняет"],"sources":["https://pubmed.ncbi.nlm.nih.gov/11705107/","https://incidecoder.com/ingredients/panthenol"],"products_by_popularity":["La Roche-Posay Cicaplast Baume B5","Purito B5 Panthenol Re-barrier Cream"],"products_by_percentage":["Derma Factory Panthenol 10%","Sidmool B5 Panthenol Ampoule"]},{"slug":"azelaic-acid","name":"Азелаиновая кислота","description":"Противовоспалительный и осветляющий ингредиент, эффективен при акне и розацеа.","tags":["антиакне","розацеа","осветляет","воспаление"],"sources":["https://pubmed.ncbi.nlm.nih.gov/20510767/","https://incidecoder.com/ingredients/azelaic-acid"],"products_by_popularity":["The Ordinary Azelaic Acid Suspension 10%","Paula\'s Choice 10% Azelaic Acid Booster"],"products_by_percentage":["Melazepam 20%","Face Theory Azeclear A15"]}]');
+
+/***/ })
+
+});
